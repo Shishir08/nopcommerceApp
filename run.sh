@@ -1,0 +1,1 @@
+pytest -s -v -m "regression" --html=./Reports/report.html test_cases/test_login.py --browser chrome
