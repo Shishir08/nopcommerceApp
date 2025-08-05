@@ -1,8 +1,4 @@
-#https://github.com/Shishir08/nopcommerceApp.git
-# git remote add origin https://github.com/Shishir08/nopcommerceApp.git
-# git config --global user.name "Shishir08"
-# git config --global user.email "shishir8march@gmail.com"
-# git add .
+
 from page_objects.LoginPage import LoginPage
 from time import sleep
 from utilities.read_properties import ReadConfig
